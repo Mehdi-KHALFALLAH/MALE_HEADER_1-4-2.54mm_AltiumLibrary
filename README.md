@@ -1,4 +1,4 @@
-# MALE_HEADER_1-4-2.54mm
+# MALE_HEADER_2.54mm
 This repository contains my own compiled Altium Designer library for four types of male headers(1x3,2x2,1x4,2x3 all 2.54mm) designed by me with the right dimensions read from the Datasheets. These male headers Library is ready for use in Altium Designer.
 
 ### Male_Header_1×3 2 54mm 
